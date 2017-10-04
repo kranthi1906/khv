@@ -4,6 +4,7 @@
   <groupId>com.kranthi-business</groupId>
   <artifactId>kranthi-business</artifactId>
   <version>1.0</version>
+  <packaging>war</packaging>
   <name>Additional SchemaCrawler Lint</name>
   <dependencies>
     <dependency>
